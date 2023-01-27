@@ -26,6 +26,7 @@ User can specify the settings for the Snap, determining:
 Consider:
 
 - Gas efficient way to process roundups. Store native coin in a generated wallet rather than smart contract?
+- Bridge rounded up native coins to Empire Network and purchase round ups there?
 
 ## Notes
 
